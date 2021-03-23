@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFilteringWithPages", "DataFilteringWithPages\DataFilteringWithPages.csproj", "{CCA8C851-5552-476D-AF5E-2FA829CEC64C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA8C851-5552-476D-AF5E-2FA829CEC64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA8C851-5552-476D-AF5E-2FA829CEC64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA8C851-5552-476D-AF5E-2FA829CEC64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA8C851-5552-476D-AF5E-2FA829CEC64C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C08788-A30A-4145-8CF8-BE8F558F8161}
+	EndGlobalSection
+EndGlobal
